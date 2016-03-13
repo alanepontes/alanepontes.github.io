@@ -1,6 +1,6 @@
 # main text of home
 name: Alane Pontes
-bio: 'Conhecimento só é válido, quando é compartilhado.'
+bio: 'Conhecimento só é válido quando é compartilhado.'
 
 # if it's an external image, update below for true
 external-image: false
@@ -22,7 +22,7 @@ disqus: mydisqus
 # if you don't have any of social below, comment the line
 facebook: alane.pontes
 twitter: alane_io
-google: alanepontes
+google: /u/0/+alanepontes
 # instagram: myinstagram
 # pinterest: mypinterest
 linkedin: alane-pontes-576390b8?trk=nav_responsive_tab_profile

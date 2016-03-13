@@ -1,0 +1,7 @@
+---
+layout: page
+title: NomeTag
+tag: nometag
+---
+
+{% include tag_content.html %}

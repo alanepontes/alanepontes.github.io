@@ -1,12 +1,12 @@
 # main text of home
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Alane Pontes
+bio: 'Conhecimento só é válido, quando é compartilhado.'
 
 # if it's an external image, update below for true
 external-image: false
-picture: 'assets/images/profile.jpg'
+picture: 'assets/images/alane_pontes.jpg'
 
-url: http://sergiokopplin.github.io/indigo
+url: http://alanepontes.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/

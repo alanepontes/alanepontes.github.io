@@ -22,7 +22,7 @@ disqus: mydisqus
 # if you don't have any of social below, comment the line
 facebook: alane.pontes
 twitter: alane_io
-#google: mygoogle
+google: alanepontes
 # instagram: myinstagram
 # pinterest: mypinterest
 linkedin: alane-pontes-576390b8?trk=nav_responsive_tab_profile
@@ -30,7 +30,7 @@ linkedin: alane-pontes-576390b8?trk=nav_responsive_tab_profile
 #spotify: myspotify
 github: alanepontes/
 #medium: medium
-email: alanepontes
+#email: alanepontes
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

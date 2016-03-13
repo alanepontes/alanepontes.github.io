@@ -22,14 +22,14 @@ disqus: mydisqus
 # if you don't have any of social below, comment the line
 facebook: myfacebook
 twitter: mytwitter
-# google: mygoogle
+google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: mylinkedin
 youtube: myyoutube
-spotify: myspotify
+#spotify: myspotify
 github: mygithub
-medium: medium
+#medium: medium
 email: myemail@gmail.com
 
 # do you want a larger site? change the option below

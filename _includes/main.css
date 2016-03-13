@@ -1185,3 +1185,7 @@ pre {
   -webkit-transition: all ease-in-out 0.2s;
           transition: all ease-in-out 0.2s;
 }
+
+.coffee
+  margin-top 35px
+  text-align center

@@ -2,8 +2,8 @@
   {% assign showHeader = true %}
 {% endif %}
 
-{% if page.title == "Blog" or page.title == "Projects" or page.title == "Tags"%}
-  {% assign showLittleHeader = true}
+{% if page.title == "Blog" or page.title == "Projects" or page.title == "Tags" %}
+  {% assign showLittleHeader = true %}
 {% endif %}
 
 {% if showHeader == true %}
@@ -21,7 +21,6 @@
 
 {% if showLittleHeader == true %}
   <header class="header-home {% if site.animation %}animated{% endif %}">
-
         <h1 class="title">{{ page.title }}</h1>
         {% include social-links.html %}
 

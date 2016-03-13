@@ -6,7 +6,7 @@
   {% assign showLittleHeader = true}
 {% endif %}
 
-{% if showHeader %}
+{% if showHeader == true %}
   <header class="header-home {% if site.animation %}animated{% endif %}">
         <a class="link" href="{{ site.url }}/about">
           <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image == true %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
@@ -19,7 +19,7 @@
   </header>
 {% endif %}
 
-{% if showLittleHeader %}
+{% if showLittleHeader == true %}
   <header class="header-home {% if site.animation %}animated{% endif %}">
 
         <h1 class="title">{{ page.title }}</h1>
@@ -31,7 +31,7 @@
 
 {% include nav.html %}
 
-{% if showHeader %}
+{% if showHeader == true %}
   <div class = "coffee">
           {% if page.title == "Home" %}
             <img src="alanepontes.github.io/assets/images/custom/coffee.jpg" width="90px" height="90px">

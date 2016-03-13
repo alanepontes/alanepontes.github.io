@@ -9,7 +9,7 @@ picture: 'assets/images/alane_pontes.jpg'
 url: http://alanepontes.github.io
 # your url: http://USERNAME.github.io
 
-permalink: /:title/
+#permalink: /:title/
 
 markdown: kramdown
 highlighter: rouge
@@ -20,17 +20,17 @@ analytics-google: 'UA-MYANALYTICS'
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-google: mygoogle
+facebook: alane.pontes
+twitter: alane_io
+#google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: mylinkedin
-youtube: myyoutube
+linkedin: alane-pontes-576390b8?trk=nav_responsive_tab_profile
+#youtube: myyoutube
 #spotify: myspotify
-github: mygithub
+github: alanepontes/
 #medium: medium
-email: myemail@gmail.com
+email: alanepontes
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

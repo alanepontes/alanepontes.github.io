@@ -77,6 +77,8 @@ GEM
     jekyll-feed (0.3.1)
     jekyll-gist (1.4.0)
       octokit (~> 4.2)
+    jekyll-i18n (1.0.3)
+      jekyll
     jekyll-mentions (1.0.1)
       html-pipeline (~> 2.3)
       jekyll (~> 3.0)
@@ -147,6 +149,7 @@ DEPENDENCIES
   jekyll
   jekyll-feed
   jekyll-gist
+  jekyll-i18n
   jekyll-mentions
   jekyll-seo-tag
   jekyll-sitemap
@@ -154,6 +157,3 @@ DEPENDENCIES
   pygments.rb
   rake
   rouge
-
-BUNDLED WITH
-   1.11.2

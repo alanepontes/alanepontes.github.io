@@ -29,5 +29,13 @@
                 </li>
             {% endif %}
         {% endif %}
+
+        {% if site.tag == true %}
+            {% if page.title != "Tags" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/tags">Tags</a>
+                </li>
+            {% endif %}
+        {% endif %}
     </ul>
 </nav>
